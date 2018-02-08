@@ -1,0 +1,7 @@
+D:\StringAverage\StringAverage\bin\Debug\StringAverage.exe.config
+D:\StringAverage\StringAverage\bin\Debug\StringAverage.exe
+D:\StringAverage\StringAverage\bin\Debug\StringAverage.pdb
+D:\StringAverage\StringAverage\obj\Debug\StringAverage.csprojResolveAssemblyReference.cache
+D:\StringAverage\StringAverage\obj\Debug\StringAverage.csproj.CoreCompileInputs.cache
+D:\StringAverage\StringAverage\obj\Debug\StringAverage.exe
+D:\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
